@@ -51,4 +51,3 @@ ruby nome_do_arquivo.rb
    - A idade é gerada aleatoriamente entre 1 e 120 anos.
 
 **Nota**: O código foi desenvolvido para fins de demonstração e pode ser adaptado conforme necessário para diferentes cenários e necessidades.
-# mercadinho
